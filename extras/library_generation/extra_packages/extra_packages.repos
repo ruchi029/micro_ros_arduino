@@ -3,3 +3,7 @@ repositories:
     type: git
     url: https://github.com/ros-controls/control_msgs
     version: galactic-devel
+  eic_bot_msgs:
+    type: git
+    url: https://github.com/ruchi029/ros_custom_pkg
+    version: master
